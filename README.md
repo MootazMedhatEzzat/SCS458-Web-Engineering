@@ -24,7 +24,7 @@
 
 ![image](https://github.com/user-attachments/assets/3a63c2ea-0d1d-4afe-ad7f-56c8eba4108e)
 ![image](https://github.com/user-attachments/assets/b5743cbd-ac86-4177-b98f-2214ea882c5b)
-![image](https://github.com/user-attachments/assets/7e01fd3c-8c96-4995-9ff7-7a1bf29564df)
+![image](https://github.com/user-attachments/assets/3c0a1824-ded4-4fe0-b4ee-94ea396adf37)
 
 ## Presentation Description
 

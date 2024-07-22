@@ -30,6 +30,6 @@
 
 Cairo University  
 Faculty of Computers and Artificial Intelligence  
-Web-Engineering Course (Spring 2024)
+Web Engineering Course (Spring 2024)
 
 This presentation is a comprehensive overview of WordPress, the most popular web content management system (WCMS). It covers the fundamental concepts of content management systems (CMSs), highlights the top 5 WCMSs in 2023, and delves into the key features of WordPress. Attendees will learn about the differences between WordPress.org and WordPress.com, and see a simple live demo to understand the practical applications of WordPress. This presentation is part of the term work for the Web-Engineering course taught by Dr. Nour Mahmoud at the Faculty of Computers and Artificial Intelligence, Cairo University.

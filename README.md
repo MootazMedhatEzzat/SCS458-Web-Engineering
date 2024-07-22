@@ -1,9 +1,10 @@
-# SCS492-Selected-Topics-in-Software-Engineering-2
-
+# SCS472-Web-Engineering
+![image](https://github.com/user-attachments/assets/3a63c2ea-0d1d-4afe-ad7f-56c8eba4108e)
+---
 <div align="center">
   <table width="100%">
     <tr>
-      <td colspan="2" align="center"><strong>{ Presentation on WordPress }</strong></td>
+      <td colspan="2" align="center"><strong>{ Jenkins Lab Task }</strong></td>
     </tr>
     <tr>
       <td align="left"><strong>Name</strong>: Mootaz Medhat Ezzat Abdelwahab</td>
@@ -11,10 +12,10 @@
     </tr>
     <tr>
       <td align="left"><strong>Program</strong>: Software Engineering</td>
-      <td align="right"><strong>Group</strong>: B (S5)</td>
+      <td align="right"><strong>Group</strong>: B (S4)</td>
     </tr>
     <tr>
-      <td align="center" colspan="2"><strong>Delivered To:</strong><br>DR. Noor<br>TA. Abdalrahman Roshdi</td>
+      <td colspan="2" align="center"><strong>Delivered To</strong>: TA. Ashraf Mohey Eldin Mohamed</td>
     </tr>
   </table>
 </div>
